@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonnelaakso
 - 🌱 I’m currently learning Laravel
-- :man_technologist: Working full-time at Yellow Film & TV
+- :man_technologist: Working full-time at Pipeline Media Oy
 - 📫 How to reach me jonne.laakso@gmail.com
 
 <!---
